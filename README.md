@@ -2,6 +2,8 @@
 
 My name is Grace Zhu
 
+My email is gracez9630@hstat.org
+
 I'm a sophomore at High School of Telecommunication Arts and Technology
 
 I take software engineering class or SEP
