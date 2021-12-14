@@ -1,14 +1,16 @@
 # about-me
 
-My name is Grace Zhu
+My name is Grace Zhu.
 
-My email is gracez9630@hstat.org
+My email is gracez9630@hstat.org.
 
-I'm a sophomore at High School of Telecommunication Arts and Technology
+I'm a sophomore at High School of Telecommunication Arts and Technology.
 
-I take software engineering class or SEP
+I take software engineering class or SEP.
 
-My favorite animal is a fox and my favorite food is sushi
+My favorite animal is a fox and my favorite food is sushi.
+
+My birthday is at July, 20th.
 
 ### Schedule
 
