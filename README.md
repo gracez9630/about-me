@@ -29,3 +29,5 @@ Period 6: Lunch
 Period 7: Spanish 3
 
 Peiod 8: Chemistry
+
+Reviewed by Vivian Zheng 
